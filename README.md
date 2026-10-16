@@ -1,6 +1,6 @@
-# Heart Failure Prediction
+# Heart Failure Data Analysis & Prediction
 
-Predicts the likelihood of death due to heart failure using clinical data and supervised machine learning. Cardiovascular diseases are the leading cause of death globally, claiming an estimated 17.9 million lives each year. Early detection through predictive modeling can support timely medical intervention.
+Exploratory data analysis of 12 clinical features to identify heart-failure risk factors — correlation mapping, distribution profiling and statistical analysis — followed by supervised models that predict the likelihood of death due to heart failure. Cardiovascular diseases are the leading cause of death globally, claiming an estimated 17.9 million lives each year. Early detection through predictive modeling can support timely medical intervention.
 
 ## Dataset
 
@@ -13,7 +13,7 @@ Predicts the likelihood of death due to heart failure using clinical data and su
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
-- scikit-learn (Logistic Regression)
+- scikit-learn (Logistic Regression, SVM, KNN)
 
 ## Results
 
@@ -27,3 +27,7 @@ The Logistic Regression model achieves 84% accuracy on the test set, evaluated w
    pip install pandas numpy matplotlib seaborn scikit-learn
    ```
 3. Open `heart_failure.ipynb` in Jupyter Notebook and run all cells.
+
+## Author
+
+**Sameeul Khondoker Jisan** — Data Analyst · [Portfolio](https://sameeulkhondokerjisan.github.io/my-portfolio/) · [LinkedIn](https://www.linkedin.com/in/mrkhondoker/)
